@@ -22,7 +22,7 @@ pinout:
   ui[4]: "Operand A bit 3 (LSB)"
   ui[5]: "Operand B bit 1 (MSB)"
   ui[6]: "Operand B bit 2"
-  ui[7]: "Operand B bit 2"
+  ui[7]: "Operand B bit 3 (LSB)"
 
   # Outputs
   uo[0]: "Segment A"
