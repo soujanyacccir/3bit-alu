@@ -14,15 +14,6 @@ This design executes binary operations on two octal numbers encoded in an 8-bit 
 
 ## How to test
 
-Explain how to use your project
-Craft a instruction following the above decoding table.
-
-Enter the instruction on the TT08 PCB's input pin dip switches.
-
-View the result on the 7 segment display
-
-Note: An overflow condition during an add operation will illumniate the 7 segment display's DP.
-
 Examples:
 
 0 0 1 0 0 0 0 1 -> ADD 4, 1 -> Displays 5 on 7-Segment Display
@@ -38,3 +29,4 @@ Examples:
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+NO
